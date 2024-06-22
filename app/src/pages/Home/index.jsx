@@ -88,7 +88,7 @@ function Home() {
                 <Container
                     isHome={true}
                 >
-                    <Carrossel />
+                    <Carrossel/>
                 </Container>
             </Banner>
             <Container isCategory={true}>
